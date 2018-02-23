@@ -5,5 +5,8 @@
   </head>
   <body>
     <h1>hoge</h1>
+    <?php
+      echo getenv("OS")
+    ?>
   </body>
 </html>
