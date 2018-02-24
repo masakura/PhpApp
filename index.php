@@ -4,7 +4,7 @@
     <title>hoge</title>
   </head>
   <body>
-    <h1>hoge</h1>
+    <h1>あいうえお</h1>
     <?php
       echo getenv("OS")
     ?>
